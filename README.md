@@ -1,5 +1,7 @@
 # tj-actions/branch-names
 
+:octocat: Github action to retrieve branch or tag names with support for all events.
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/tj-actions/branch-names](https://github.com/tj-actions/branch-names).
 
 ## Versions
