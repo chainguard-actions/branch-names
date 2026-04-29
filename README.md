@@ -1,6 +1,12 @@
 # tj-actions/branch-names
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/tj-actions/branch-names](https://github.com/tj-actions/branch-names).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v9 | [`v9`](https://github.com/chainguard-actions/branch-names/tree/v9) | — |
 
 ## Privacy
 
