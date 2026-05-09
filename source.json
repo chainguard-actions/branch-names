@@ -1,4 +1,6 @@
 {
-  "upstream": "tj-actions/branch-names",
-  "version": "v9"
+  "owner": "tj-actions",
+  "repo": "branch-names",
+  "version": "",
+  "url": "https://github.com/tj-actions/branch-names"
 }
